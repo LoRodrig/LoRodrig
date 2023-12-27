@@ -15,6 +15,7 @@
     <img alig="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img style height= 50px alig="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img style height= 50px alig="center" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-</div>
+   <img  style height= 50px alig="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+          
 
 ### Você pode não ter o melhor do mundo, mas agradeça por tudo o que tem hoje!🙏🏼
