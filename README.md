@@ -10,11 +10,15 @@
 ### Tecnologias que uso no meu dia a dia☀️
 
 <div style="display: inline-block"><br/>
-    <img style height= 50px alig="center" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-    <img style height= 50px alig="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>    
-    <img alig="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alig="center" alt="Postgresql" src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000"/>
-    <img style height= 50px alig="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img style height= 50px alig="center" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-   <img style height= 50px alig="center" alt="Power bi" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"/>
-   <img style height= 50px alig="center" alt="Power Automate" src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000"/>
+    <img style="height: 50px" align="center" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+    <img style="height: 50px" align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>    
+    <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" alt="Postgresql" src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000"/>
+    <img style="height: 50px" align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img style="height: 50px" align="center" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+    <img style="height: 50px" align="center" alt="Power bi" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"/>
+    <img style="height: 50px" align="center" alt="Power Automate" src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000"/>
+    <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white"/>
+    <img align="center" alt="Pentaho" src="https://img.shields.io/badge/Pentaho-00A3A4?style=for-the-badge&logoColor=white"/>
+   
+</div>
